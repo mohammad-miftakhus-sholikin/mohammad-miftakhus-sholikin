@@ -8,7 +8,14 @@
 
 <p align='left'>I completed my bachelor's, master's, and doctoral degrees at IPB University with a focus on nutrition and feed science. I am very interested in biostatistics and bioinformatics, especially in nutrition and feed science.</p><p align='left'> You can view my resume <a href='https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/ ' target=_blank><u>here</u>.</a></p>
 
-## Stat
+
+## Achievements
+- [Achievement 1](achievement.com)
+- [Achievement 2](achievement.com)
+- [Achievement 3](achievement.com)
+
+
+## Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mohammad-miftakhus-sholikin alt=mohammad-miftakhus-sholikin /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-miftakhus-sholikin&theme=graywhite&show_icons=true&include_all_commits=true)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
