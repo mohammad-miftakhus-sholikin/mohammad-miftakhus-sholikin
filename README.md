@@ -1,9 +1,9 @@
-## Hey 👨‍🔬, My name is [Mohammad Miftakhus Sholikin](https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/) [![Gmail Badge](https://img.shields.io/badge/-mms-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammadmiftakhussholikin@gmail.com)](mailto:mohammadmiftakhussholikin@gmail.com) 
+## Hey 👨‍🔬, My name is [Mohammad Miftakhus Sholikin](https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/) [![Gmail Badge](https://img.shields.io/badge/-sholikin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammadmiftakhussholikin@gmail.com)](mailto:mohammadmiftakhussholikin@gmail.com) 
 
-[![Linkedin Badge](https://img.shields.io/badge/mohammad-miftakhus-sholikin?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)](https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)
-[![Github Badge](https://img.shields.io/badge/mohammad-miftakhus-sholikin?style=flat&logo=github&logoColor=white&link=https://github.com/mohammad-miftakhus-sholikin/)](https://www.github.com/mohammad-miftakhus-sholikin/)
-[![Twitter Badge](https://img.shields.io/badge/mohammad-miftakhus-sholikin?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mohammad-miftakhus-sholikin/)](https://www.twitter.com/mohammad-miftakhus-sholikin/)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/mohammad-miftakhus-sholikin/)](https://github.com/mohammad-miftakhus-sholikin/)
+[![Linkedin Badge](https://img.shields.io/badge/-sholikin?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)](https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)
+[![Github Badge](https://img.shields.io/badge/-sholikin?style=flat&logo=github&logoColor=white&link=https://github.com/mohammad-miftakhus-sholikin/)](https://www.github.com/mohammad-miftakhus-sholikin/)
+[![Twitter Badge](https://img.shields.io/badge/-sholikin?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mohammad-miftakhus-sholikin/)](https://www.twitter.com/mohammad-miftakhus-sholikin/)
+[![Portfolio Badge](https://img.shields.io/badge/-sholikin-blue?style=flat&link=https://github.com/mohammad-miftakhus-sholikin/)](https://github.com/mohammad-miftakhus-sholikin/)
 
 <p align='left'>I completed my bachelor's, master's, and doctoral degrees at IPB University with a focus on nutrition and feed science. I am very interested in biostatistics and bioinformatics, especially in nutrition and feed science.</p><p align='left'> You can view my resume <a href='https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/ ' target=_blank><u>here</u>.</a></p>
 
