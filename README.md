@@ -9,10 +9,30 @@
 <p align='left'>I completed my bachelor's, master's, and doctoral degrees at IPB University with a focus on nutrition and feed science. I am very interested in biostatistics and bioinformatics, especially in nutrition and feed science.</p><p align='left'> <a href='https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/ ' target=_blank><u>Here</u></a> my resume profile</p>
 
 
-## Achievements
-- [Achievement 1](achievement.com)
-- [Achievement 2](achievement.com)
-- [Achievement 3](achievement.com)
+## Education and Qualifications
+### Formal education
+- 2017 B.Sc. IPB University: Cricket meal as protein alternative for animal feed
+- 2019 M.Sc. IPB University: Protein extraction of maggot using response surface modelling
+- 2021 Dr. IPB University: Antimicrobial peptide as an alternative antibiotic growth promoter
+### Non-formal education
+- 2021 datacamp: Introduction to python, R, and SQL
+- 2021 DQLab: A walk into sensory science using R
+- 2021 DQLab: Business decision research using python
+- 2021 DQLab: Credit risk analysis using R
+- 2021 DQLab: Customer churn prediction using machine learning
+- 2021 DQLab: Customer segmentation with python and R
+- 2021 DQLab: Data analysis of COVID19 using python and R
+- 2021 DQLab: Data analyst using python, R, and SQL
+- 2021 DQLab: Market basket analysis using R
+
+
+
+## Skills
+- Data Science and Engineering
+- Feed formulation, feed manufacturing, and feed additives design
+- Feeding management for monogastric and ruminant
+- Nutrition modelling (e.g., dynamic systems and meta-analysis approaches)
+- Teaching and Research
 
 
 ## Stats
