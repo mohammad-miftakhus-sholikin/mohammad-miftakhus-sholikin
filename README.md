@@ -11,5 +11,5 @@
 ## Stat
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mohammad-miftakhus-sholikin alt=mohammad-miftakhus-sholikin /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-miftakhus-sholikin&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-miftakhus-sholikin&theme=dark&layout=compact)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-miftakhus-sholikin&theme=slateorange&show_icons=true&include_all_commits=true)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-miftakhus-sholikin&theme=slateorange&layout=compact)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
