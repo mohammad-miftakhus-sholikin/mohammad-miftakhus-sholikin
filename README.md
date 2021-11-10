@@ -11,9 +11,9 @@
 
 ## Education and Qualifications
 ### Formal education
-- 2017 B.Sc. IPB University: Cricket meal as protein alternative for animal feed
-- 2019 M.Sc. IPB University: Protein extraction of maggot using response surface modelling
-- 2021 Dr. IPB University: Antimicrobial peptide as an alternative antibiotic growth promoter
+- 2017 _B.Sc. [IPB University_](https://ipb.ac.id/): Cricket meal as protein alternative for animal feed
+- 2019 _M.Sc. [IPB University_](https://ipb.ac.id/): Protein extraction of maggot using response surface modelling
+- 2021 _Dr. [IPB University_](https://ipb.ac.id/): Antimicrobial peptide as an alternative antibiotic growth promoter
 ### Non-formal education
 - 2021 datacamp: Introduction to python, R, and SQL
 - 2021 DQLab: A walk into sensory science using R
