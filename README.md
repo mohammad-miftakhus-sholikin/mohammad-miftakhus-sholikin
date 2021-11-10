@@ -1,6 +1,6 @@
 ## Hey 👨‍🔬, My name is [Mohammad Miftakhus Sholikin](https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/)
 
-[![Gmail Badge](https://img.forthebadge.com/badge/-sholikin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammadmiftakhussholikin@gmail.com)](mailto:mohammadmiftakhussholikin@gmail.com) 
+[![Gmail Badge](https://img.shields.i/badge/-sholikin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammadmiftakhussholikin@gmail.com)](mailto:mohammadmiftakhussholikin@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/sholikin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)](https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)
 [![Github Badge](https://img.shields.io/badge/-sholikin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mohammad-miftakhus-sholikin/)](https://www.github.com/mohammad-miftakhus-sholikin/)
 [![Twitter Badge](https://img.shields.io/badge/-sholikin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mohammad-miftakhus-sholikin/)](https://www.twitter.com/mohammad-miftakhus-sholikin/)
