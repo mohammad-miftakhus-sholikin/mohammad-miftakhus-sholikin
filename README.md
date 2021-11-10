@@ -16,14 +16,14 @@
 - 2021 [_Dr. IPB University_](https://ipb.ac.id/): Antimicrobial peptide as an alternative antibiotic growth promoter
 ### Non-formal education
 - 2021 datacamp: Introduction to python, R, and SQL
-- 2021 DQLab: A walk into sensory science using R
-- 2021 DQLab: Business decision research using python
-- 2021 DQLab: Credit risk analysis using R
-- 2021 DQLab: Customer churn prediction using machine learning
-- 2021 DQLab: Customer segmentation with python and R
-- 2021 DQLab: Data analysis of COVID19 using python and R
+- 2021 DQLab: [A walk into sensory science using R](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1AGPCLU/NONTRACK)
+- 2021 DQLab: [Business decision research using python](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2LPMFHT/NONTRACK)
+- 2021 DQLab: [Credit risk analysis using R](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRJJDGIU/NONTRACK)
+- 2021 DQLab: [Customer churn prediction using machine learning](https://academy.dqlab.id/certificate/pdf/DQLABAPL2%20CNSSLQ/NONTRACK)
+- 2021 DQLab: Customer segmentation with [python](https://academy.dqlab.id/certificate/pdf/DQLABDSCS1OUBLSH/NONTRACK) and [R](https://academy.dqlab.id/certificate/pdf/DQLABMLMKTNGTISD/NONTRACK)
+- 2021 DQLab: Data analysis of COVID19 using [python](https://academy.dqlab.id/certificate/pdf/DQLABINTP1IVOWUC/NONTRACK) and [R](https://academy.dqlab.id/certificate/pdf/DQLABAPL3%20PROQLI/NONTRACK)
 - 2021 DQLab: Data analyst using python, R, and SQL
-- 2021 DQLab: Market basket analysis using R
+- 2021 DQLab: [Market basket analysis using R](https://academy.dqlab.id/certificate/pdf/DQLABMLMBANPPNDU/NONTRACK)
 
 
 
