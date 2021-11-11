@@ -11,9 +11,9 @@
 
 ## Education and Qualifications
 ### Formal education
-- 2017 [_B.Sc. IPB University_](./assets/certificates/Sertifikat_2017__Ijazah-sarjana.pdf): Cricket meal as protein alternative for animal feed
-- 2019 [_M.Sc. IPB University_](https://ipb.ac.id/): Protein extraction of maggot using response surface modelling
-- 2021 [_Dr. IPB University_](https://ipb.ac.id/): Antimicrobial peptide as an alternative antibiotic growth promoter
+- 2017 [_B.Sc. IPB University_](./assets/certificates/Sertifikat_2017__Ijazah-sarjana.pdf): [Cricket meal as protein alternative for animal feed](./assets/publications/2017__Undergraduate-thesis.pdf)
+- 2019 [_M.Sc. IPB University_](./assets/certificates/Sertifikat_2019__Ijazah-magister.pdf): [Protein extraction of maggot using response surface modelling](./assets/publications/2019__Thesis.pdf)
+- 2021 [_Dr. IPB University_](./assets/certificates/Sertifikat_2021__Ijazah-doktor.pdf): [Antimicrobial peptide as an alternative antibiotic growth promoter](./assets/publications/2021__Dissertation.pdf)
 ### Non-formal education
 - 2021 datacamp: Introduction to python, R, and SQL
 - 2021 DQLab: [A walk into sensory science using R](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1AGPCLU/NONTRACK)
