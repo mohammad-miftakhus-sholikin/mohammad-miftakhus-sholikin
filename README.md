@@ -29,6 +29,12 @@
 - 2021 DQLab: [Market basket analysis using R](https://academy.dqlab.id/certificate/pdf/DQLABMLMBANPPNDU)
 
 
+## Achievements
+- Course of TWINCLE Program by Chiba University[<sup>[1]</sup>](https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Sertifikat_2020__Twincle-program.pdf)
+- German language level A1[<sup>[1]</sup>](https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Sertifikat_2014__German-A1.pdf)
+- The best graduates from bachelor[<sup>[1]</sup>](https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Sertifikat_2017__Lulusan-terbaik-sarjana.pdf), master, and doctoral[<sup>[1]</sup>](https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Sertifikat_2021__Lulusan-terbaik-doktor.pdf) programs
+- TOEFL IBT score 477[<sup>[1]</sup>](https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Sertifikat_2019__TOEFL.pdf)
+
 
 ## Skills
 - Data Science and Engineering
@@ -38,7 +44,11 @@
 - Teaching and Research
 
 
-## Stats
+## Publication
+See on my [researchgate](https://www.researchgate.net/profile/Mohammad_Sholikin2) and [google scholar](https://scholar.google.fr/citations?user=koSsmk8AAAAJ)
+
+
+## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mohammad-miftakhus-sholikin alt=mohammad-miftakhus-sholikin /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-miftakhus-sholikin&theme=graywhite&show_icons=true&include_all_commits=true)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
