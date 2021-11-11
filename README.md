@@ -11,7 +11,7 @@
 
 ## Education and Qualifications
 ### Formal education
-- 2017 [_B.Sc. IPB University_](assets/certificates/Sertifikat_2017__Ijazah sarjana.pdf): Cricket meal as protein alternative for animal feed
+- 2017 [_B.Sc. IPB University_](/assets/certificates/Sertifikat_2017__Ijazah sarjana.pdf): Cricket meal as protein alternative for animal feed
 - 2019 [_M.Sc. IPB University_](https://ipb.ac.id/): Protein extraction of maggot using response surface modelling
 - 2021 [_Dr. IPB University_](https://ipb.ac.id/): Antimicrobial peptide as an alternative antibiotic growth promoter
 ### Non-formal education
