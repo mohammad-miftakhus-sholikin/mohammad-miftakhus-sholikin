@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-sholikin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mohammad-miftakhus-sholikin/)](https://www.twitter.com/mohammad-miftakhus-sholikin/)
 [![Portfolio Badge](https://img.shields.io/badge/-sholikin-blue?style=flat&link=https://github.com/mohammad-miftakhus-sholikin/)](https://github.com/mohammad-miftakhus-sholikin/)
 
-<p align='left'>I completed my bachelor's, master's, and doctoral degrees at IPB University with a focus on nutrition and feed science. I am very interested in biostatistics and bioinformatics, especially in nutrition and feed science.</p><p align='left'> <a href='https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/publications/Surat_2021__Daftar-riwayat-hidup-MM-Sholikin-dosen.pdf ' target=_blank><u>Here</u></a> my resume profile</p>
+<p align='left'>I completed my bachelor's, master's, and doctoral degrees at IPB University with a focus on nutrition and feed science. I am very interested in biostatistics and bioinformatics, especially in nutrition and feed science.</p><p align='left'> <a href='https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/publications/Surat_2021__Daftar-riwayat-hidup-MM-Sholikin-dosen.pdf' target=_blank><u>Here</u></a> my resume profile</p>
 
 
 ## Education and Qualifications
