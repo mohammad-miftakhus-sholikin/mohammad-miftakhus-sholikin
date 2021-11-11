@@ -1,4 +1,4 @@
-## Hey <img src="images/wave.gif" width="30px">, My name is 👨‍🔬 [Mohammad Miftakhus Sholikin](https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/)
+## Hey <img src="images/hand-wave.gif" width="30px">, My name is 👨‍🔬 [Mohammad Miftakhus Sholikin](https://mohammad-miftakhus-sholikin.github.io/academic_website/profil/riwayat-hidup-penulis/)
 
 [![Gmail Badge](https://img.shields.io/badge/-sholikin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammadmiftakhussholikin@gmail.com)](mailto:mohammadmiftakhussholikin@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/sholikin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)](https://www.linkedin.com/in/mohammad-miftakhus-sholikin/)
