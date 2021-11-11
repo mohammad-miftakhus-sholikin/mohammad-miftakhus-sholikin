@@ -15,7 +15,7 @@
 - 2019 [_M.Sc. IPB University_](./assets/certificates/Sertifikat_2019__Ijazah-magister.pdf): [Protein extraction of maggot using response surface modelling](./assets/publications/2019__Thesis.pdf)
 - 2021 [_Dr. IPB University_](./assets/certificates/Sertifikat_2021__Ijazah-doktor.pdf): [Antimicrobial peptide as an alternative antibiotic growth promoter](./assets/publications/2021__Dissertation.pdf)
 ### Non-formal education
-- 2021 datacamp: Introduction to python, R[<sup>[1]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABBGINRTKCNVL), and SQL
+- 2021 datacamp: Introduction to python, R[<sup>[1]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABBGINRTKCNVL)[<sup>[2]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABINTR1NTVPSS)[<sup>[3]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABDTWR1NACNBW)[<sup>[4]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABINTS1LDPBTR)[<sup>[5]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABDTVISLCDHMJ)[<sup>[6]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABINTR1UAHJRR)[<sup>[7]</sup>](https://academy.dqlab.id/certificate/pdf/DQLABAPL4%20RGWOBP), and SQL
 - 2021 DQLab: [A walk into sensory science using R](https://academy.dqlab.id/certificate/pdf/DQLABDSSR1AGPCLU/NONTRACK)
 - 2021 DQLab: [Business decision research using python](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2LPMFHT/NONTRACK)
 - 2021 DQLab: [Credit risk analysis using R](https://academy.dqlab.id/certificate/pdf/DQLABMLFCRJJDGIU/NONTRACK)
