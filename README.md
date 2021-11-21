@@ -52,4 +52,4 @@ See on my [scopus](http://www.scopus.com/inward/authorDetails.url?authorID=57200
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mohammad-miftakhus-sholikin alt=mohammad-miftakhus-sholikin /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-miftakhus-sholikin&theme=graywhite&show_icons=true&include_all_commits=true)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-miftakhus-sholikin&theme=graywhite)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-miftakhus-sholikin&theme=graywhite&layout=compact&langs_count=10)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
