@@ -54,4 +54,4 @@ See on my [scopus](http://www.scopus.com/inward/authorDetails.url?authorID=57200
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-miftakhus-sholikin&theme=graywhite&show_icons=true&include_all_commits=true)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-miftakhus-sholikin&theme=graywhite&langs_count=10)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-miftakhus-sholikin&hide=css,html,scss&theme=graywhite&langs_count=10)](https://github.com/mohammad-miftakhus-sholikin/github-readme-stats)
