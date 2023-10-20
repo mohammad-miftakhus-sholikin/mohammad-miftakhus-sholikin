@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-sholikin-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/mohammad-miftakhus-sholikin/)](https://www.twitter.com/mohammad-miftakhus-sholikin/)
 [![Portfolio Badge](https://img.shields.io/badge/-sholikin-blue?style=flat&link=https://github.com/mohammad-miftakhus-sholikin/)](https://github.com/mohammad-miftakhus-sholikin/)
 
-<p align='left'>I'm currently working for National Research and Innovation Agency (BRIN). I completed my bachelor, master, and doctoral degrees at IPB University with a focus on nutrition and feed science.</p><p align='left'> <a href='https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Surat_2021__Daftar-riwayat-hidup-MM-Sholikin-dosen.pdf' target=_blank><u>Here</u></a> my curriculum vitae</p>
+<p align='left'>I currently work at the National Research and Innovation Agency (BRIN). My academic path has led me to achieve my bachelor's, master's, and PhD degrees from IPB University, with a focus on nutrition and feed science.</p><p align='left'> <a href='https://github.com/mohammad-miftakhus-sholikin/mohammad-miftakhus-sholikin/blob/main/assets/certificates/Surat_2021__Daftar-riwayat-hidup-MM-Sholikin-dosen.pdf' target=_blank><u>Here</u></a> my curriculum vitae</p>
 
 
 ## Education and Qualifications
